@@ -1,0 +1,39 @@
+body {
+    padding-left:45em;
+    padding-top: 15em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: #0d064e;
+    background-image:url("dd.JPG"); 
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+  h1 {
+    font-family: "BP Diet"}
+         
+  ul.navbar li {
+    background: rgb(110, 47, 168);
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: rgb(213, 190, 233) }
+  a:visited {
+    color: rgb(239, 181, 241) }
+  address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
+h2 {
+    color:rgb(195, 143, 216);
+}
+.try {
+    color:rgb(229, 224, 241);
+    font-size: 170;
+  }  
